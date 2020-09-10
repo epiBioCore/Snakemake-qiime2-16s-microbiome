@@ -1,0 +1,11 @@
+threads: 6
+
+samples: "samples.tsv"
+
+read1_adapter: ""
+read2_adpater: ""
+
+cutadapt_min_len: 200
+
+taxonomy: ""
+reference: ""
